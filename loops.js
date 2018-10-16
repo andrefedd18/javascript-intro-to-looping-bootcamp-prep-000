@@ -10,5 +10,5 @@ function forLoop(array) {
 }
 function whileLoop(n) {
   let countdown = n;
-  whle
+  while(countdown < 0)
 }
